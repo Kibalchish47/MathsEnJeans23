@@ -7,6 +7,10 @@ Translation:
 
 ## The PowerPoint Presentation (in French)
 See the full presentation in the "The Canard et le Loup.pdf" file ("assets" folder). 
+
+If you wish to see me present (in French) during the conference, here's the link: 
+https://drive.google.com/file/d/1V3CFCdF1USWsNeSjph48Af3DGxm5gDTr/view?usp=sharing
+
 ## The Visualizations
 
 ![Cas banal](assets/cas%20banal.png)
