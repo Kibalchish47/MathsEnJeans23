@@ -37,17 +37,23 @@ rC, aC = 0, 0
 # parametres
 t1 = 2.4
 h = 0.1
+
 while rC < 100:
+    # tant que le canard n'a pas atteint le bord du lac
     t = t + h 
     loup(100, 0.4 * t)
-    if t < t1:
-        rC, aC= rC + 10 * h, pi
+    if t < t1: # le tour du canard
+        rC, aC = rC + 10 * h, pi
+        # toutes les mesures sont mult. par 10
         canard(rC, aC)
     elif abs(aC - 0.4 * t) < pi:
+        # tourne sur son cercle pour atteindre pi.
+        # l'ecart entre le canard et le loup 
+        # doit arriver a pi (180 degrees)
         teta = 2 * pi / rC #vitesse angulaire du canard
         rC, aC = rC, aC - teta * h
         canard(rC, aC)
     else:
-        rC, aC = rC + 10 *h, aC
+        rC, aC = rC + 10 * h, aC
         canard(rC, aC)
 done()
