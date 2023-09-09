@@ -2,7 +2,7 @@
 This is a a solution to the "Le Canard et Le Loup" problem as part of the Maths en Jeans (2022-2023) High School mathematics seminar. 
 
 ## The Problem
-
+![Sujet](assets/Sujet%20Maths%20en%20Jeans%20(Le%20canard%20et%20le%20loup).jpeg)
 Translation: 
 
 ## The PowerPoint Presentation (in French)
