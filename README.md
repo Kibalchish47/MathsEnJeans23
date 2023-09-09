@@ -3,7 +3,17 @@ This is a a solution to the "Le Canard et Le Loup" problem as part of the Maths 
 
 ## The Problem
 ![Sujet](assets/Sujet%20Maths%20en%20Jeans%20(Le%20canard%20et%20le%20loup).jpeg)
+
 Translation: 
+> Maths en Jeans - Topic 10. 
+> The duck and the wolf. 2022-2023
+> Gilles Bailly-Maître
+
+> A duck is at the center of a circular pond with a 10 m radius and a wolf at the edge. The duck can only fly from the edge of the pond, and the wolf can't swim. Both animals always move at a constant speed and never get tired.
+
+> If the duck swims at 1m/s and the wolf runs at 4m/s, will the duck be able to escape?
+
+> (Additional) What is the highest ratio (wolf speed/duck speed) at which the duck the duck reaches the edge of the pond before the wolf?
 
 ## The PowerPoint Presentation (in French)
 See the full presentation in the "The Canard et le Loup.pdf" file ("assets" folder). 
